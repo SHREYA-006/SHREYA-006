@@ -9,7 +9,7 @@
 ## 🔭 What I’m Working On
 - Developing mini-projects to enhance my web development and coding skills.
 - Actively exploring open-source projects to learn, contribute, and grow within the developer community.
-## 📫 How to Reach Me
+## 📫 Connect on Social
  💼 [LinkedIn](https://www.linkedin.com/in/shreya-yadav-3a0a232b2/)
  
  📧 Email: [shreyayadav9885@gmail.com]
