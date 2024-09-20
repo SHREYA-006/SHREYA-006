@@ -1,18 +1,18 @@
 # Hi there, I'm [Shreya Yadav]! 👋
 
 ## 🚀 About Me
-- 🎓 B.Tech Student at Rajasthan College of Engineering for Women (RCEW)
-- 🌱 I’m currently learning HTML, CSS, C, and more
-- 💻 Aspiring Software Engineer with a passion for perfection and timely work
-- 💡 Always eager to learn new technologies and build innovative solutions
+-  B.Tech Student at Rajasthan College of Engineering for Women (RCEW)
+-  I’m currently learning HTML, CSS, C, and more
+-  Aspiring Software Engineer with a passion for perfection and timely work
+-  Always eager to learn new technologies and build innovative solutions
 
 ## 🔭 What I’m Working On
 - Building small projects to sharpen my skills in web development and programming
 - Exploring open-source projects to contribute and learn from the community
 
 ## 📫 How to Reach Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/shreya-yadav-3a0a232b2/)
-- 📧 Email: [shreyayadav9885@gmail.com]
+ 💼 [LinkedIn](https://www.linkedin.com/in/shreya-yadav-3a0a232b2/)
+ 📧 Email: [shreyayadav9885@gmail.com]
 
 ## 💼 Skills
 - *Languages:* HTML, CSS, C
