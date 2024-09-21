@@ -1,4 +1,4 @@
-# Hi there, I'm [SHREYA YADAV]! 
+# Hi there, I'm SHREYA YADAV! 
 
 ## 🚀 About Me
 -  B.Tech Student at Rajasthan College of Engineering for Women (RCEW).
@@ -10,9 +10,8 @@
 - Developing mini-projects to enhance my web development and coding skills.
 - Actively exploring open-source projects to learn, contribute, and grow within the developer community.
 ## 📫 Connect on Social
-   💼 [LinkedIn](https://www.linkedin.com/in/shreya-yadav-3a0a232b2/)
- 
-   📧 Email: [shreyayadav9885@gmail.com]
+   - [LinkedIn](https://www.linkedin.com/in/shreya-yadav-3a0a232b2/)💼
+   - [Email](shreyayadav9885@gmail.com)📧
 
 ## 💼 Skills
 - *Languages:* HTML, CSS, C
