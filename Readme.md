@@ -7,14 +7,18 @@
 -  Always excited to embrace new technologies and transform ideas into reality.
 
 ## 🔭 What I’m Working On
-- Developing mini-projects to enhance my web development and coding skills.
+- Developing projects to enhance my web development and coding skills.
 - Actively exploring open-source projects to learn, contribute, and grow within the developer community.
+- Learning data structures and algorithms while consistently solving problem-solving challenges.
+- Building a foundation in AI/ML by working through core concepts and beginner-level implementations.
+  
 ## 📫 Connect on Social
    - [LinkedIn](https://www.linkedin.com/in/shreya-yadav-3a0a232b2/)💼
    - [Email](shreyayadav9885@gmail.com)📧
 
 ## 💼 Skills
-- *Languages:* HTML, CSS, C
+- *Languages:* HTML, CSS, Java, JavaSript
+- *Frameworks/Libraries:* MongoDB, Express.js, Node.js, Bootstrap, Tailwind CSS
 - *Tools:* Git, GitHub
 
 ## 🌱 Current Goals
