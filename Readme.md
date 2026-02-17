@@ -14,7 +14,7 @@
   
 ## 📫 Connect on Social
    - [LinkedIn](https://www.linkedin.com/in/shreya-yadav-3a0a232b2/)💼
-   - [Email](shreyayadav9885@gmail.com)📧
+   - *Email*-shreyayadav9885@gmail.com
 
 ## 💼 Skills
 - *Languages:* HTML, CSS, Java, JavaSript
