@@ -8,10 +8,10 @@
 ---
 
 ### 🚀 About Me
-- 🎓 **Education:** B.Tech in Computer Science & Engineering at Rajasthan College of Engineering for Women (CGPA: **9.62/10**, Expected Graduation: May 2027).
-- 💻 **Focus:** Passionate about backend development, service-oriented architecture, and building scalable, database-driven web applications.
+- 🎓 **Education:** B.Tech in Computer Science & Engineering at Rajasthan College of Engineering for Women (CGPA: **9.62/10**).
+- 💻 **Focus:** Passionate about fullstack development, service-oriented architecture, and building scalable, database-driven web applications.
 - 📝 **Researcher:** Published peer-reviewed research on web performance optimization.
-- 🏆 **Problem Solver:** Actively honing DSA skills with 100+ problems solved on LeetCode.
+- 🏆 **Problem Solver:** Actively honing DSA skills with 150+ problems solved on LeetCode.
 
 ---
 
